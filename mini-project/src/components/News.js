@@ -274,11 +274,11 @@ article:this.article
     return (
       <>
       This is a component of news
-      <div className='container my-3'>
+      <div className='container my-3 row '>
           <h2>NewsHub- Top Headlines</h2>
-          {this.state.article.map((element)=>{console.log(element)})}
+          {this.state.article.map((element)=>{return(<div className='col-md-3'><NewsItem key={element.description} title={element.title} description={element.url} imageurl="https://images.pexels.com/photos/2872418/pexels-photo-2872418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/></div>)})}
           <div className='row my-4'>
-              <div className='col-md-3'><NewsItem title='title1' description='desc1' imageurl="https://images.pexels.com/photos/2872418/pexels-photo-2872418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/></div>
+              
              
           </div>
 
