@@ -1,266 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 10,
     "articles": [
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "NBC News",
-    "title": "Ford, Mazda issue do-not-drive warnings for 457,000 vehicles with Takata air bags - NBC News",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUG8xc3ZTNEJ2alYyZEtRWWRyamIwckRjdHdWVVZqZFNGUEZvTE4wSTFMRHVPYUFZcDF6VVZER2JzcVEydURKZkkxeFN6U0hhTFE2R05SdHFmOEx1V2VqSC13Zkc0OWUtMGRKYzd3T1pPZUxKa19KZjdJTzRnTWJJeEctSFpGR2FrQl9SR05qVWNxYnNWYWpacm5MMXpycDhaMzN4bNIBVkFVX3lxTE1ZYXVKZk5WcUF6ckRaelBrb1ZRMUlDeG9mbVRxWDI1SUpQaUJzRXdpbVJnUjNuRTV1b3pMUFRVT0w0UV95SERzMFA3T2dYMy1NbTVZNWZR?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T14:05:21Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Investor's Business Daily",
-    "title": "Cooling Inflation Buoys Fed Rate-Cut Hopes, S&P 500 - Investor's Business Daily",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGpSRGRzS2tEekhHUklSYUt4WGJFR2h6NGdLTWhNNDNsdXFibURzUnlSdDliS1hwc3ZmS1dqRkR6S1diYkdabHV4SGE0b2VwcFZoTmJjU1NXRjd4ekROT28teGdwVGNmekpjM2t1czBYdDhWQVZXUnhfN0hNTHdWWVFwQzhkY201dnYteXU2cTlKdjBKZTRlY0NGeWNYTTIwU1MzbUxvaElNUzJqRTBBbHV4ZUZ2UE1Wc3hYbA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T13:32:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "The Associated Press",
-    "title": "News outlets were leaked insider material from the Trump campaign. They chose not to print it - The Associated Press",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNallxb05HeXExU1JKUzJzeS15b2hGbkpwSDJUc096QV9XczB1TXdqS2ZORTZRbHc2YzhhZnh6VHphLThmNjFNdjBVcnM4T0lNT0NqM2oxeWxWUEJaMmdEdXhzQ2U0UzZSYl91RE5WV3diQU5pWFZlM2R0S2pZYVhKUlZKVDh6Wmx0VlFYd0RCMW5ZVnAtQjM4?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T13:14:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "The Wall Street Journal",
-    "title": "Starbucks Ousts CEO, Names Chipotle Boss as Replacement - The Wall Street Journal",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHNJNkMwVVFLekFKaVFHc2FVN0RPalZ0TnBLd0FMNnE4T0gtaWh3ZjVtclNBbDVZUG50SVAxdk01a3dDQm5NbE5YSzlvcnhYWDN4NjlGMUFvRWhYNmFVejh2UE5FVExoS1oxaEZDdGEySGFxckR2c3VDc2Q1Z1V1MVVzV1dvTFJpQVhqOHRJbFFIaEMzclNGeUwyOVQ3WlU5?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T13:00:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "CBS Sports",
-    "title": "NFL preseason Week 1 grades for first-round rookies: Who impressed, disappointed and surprised in NFL debuts - CBS Sports",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTJlTVhYZjBrZnd2OVJ2NE56S3M3TmZYd0dJM1hIWTd0ZmxOa2syUVBZdUJLRVV4cVBFeU04UUo2WXpPY3M3NDVaeTNaVXZhM0J4dFpVLV9mZXJDSlJJYzdhSXBuLTVvR2swX25pS0s3UF9CM0pIamtRMlQ1Y3lFV3ZTRTE1QV9TZ1h3T2l3cmtlWHo1T3ZxYnA0OHNlcE1qV0RzOWRwN3A3Z1lkeENqdFBPekJ5S3RIcFNFei1ZMW1pTF9VekRpTHRMNGd0emkzWmVBc2FLc3QtQdIB3wFBVV95cUxQemFFMEs4aUF3STFyVnJBTE94RFQ2RmFWamZKVElmblZXa3VOWnY5M0o5dlI5N3l3YU0teXVWWEU1WmIzdzdzbmd6QUtrY0RpWi15cXBRaXNDOVpER3pwcVpWV2VsNi1lM281N3hYT2FKMHlWRlpOU3A1YzRSbTNjOUZUTTNUREtGVDRneVFzRzJncXZudkd1eDZZaXRGZnF4LWl5WC0tUEZJeVV0UWRnTzRMS3d3c2Jja0VIQjQ5QUtrZF8zNF92eDZ2QW9BLXdaLXJLY25NdDFuemZHbjJR?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T12:59:01Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "WMUR Manchester",
-    "title": "5 cases of Legionnaires' disease may be linked to cooling tower in downtown Lincoln, officials say - WMUR Manchester",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm5rNERxOGdRZDlva3Jnc056MFpXdUJvNHlsVnZWcERZQkpkcVhmbC1oR0tkNW1rc09LdjM4ZDBfSjZBQ2dfOG5yVkdhUXQ1XzJXZGt6RmM4YXZBV01TMWw5aVNDWVp3UlBfelJ3cWN4MzVKNmVQZDBZbFFqWHNaNlhqZWxBXzRQQS1vakFkcw?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T12:56:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Reuters.com",
-    "title": "Exclusive: Only Gaza ceasefire will delay retaliation, say Iranian officials - Reuters.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempTYm5uZkt6YjFha0ljZG1KWlhaWFp6RnhBbk1DVG56bFZDTUZ2ZDlwTTNwNVRfd3ptSi0xRWpvSUdES1BtUlpNMnNfczJaUnpyYzk1YUFYUGIwRWltNDFGd0YwajJnM0VpUUFHaTBzQ0JKUE1jWk8wQjFIWFVFYzZnOFZ5Nko1NVZBNERmekpqbzJfUE1SVDFlTE1MNDA3WDExZ25LZ1pTSW5YVEE3ZjEtQVZaVWhT?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T12:49:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "The Verge",
-    "title": "Google Pixel 9 event: how to watch the livestream - The Verge",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTEVWSVN5NnMwTE9oMlpQeGtHanBYa2xtcmpib000c1RzaFhteTVDdnhEYjNmbkQwZ0FpYnVtMnBBZVdRWUpUUEJNYUdjQ3lHYS1HVVlUMmprSXVNWDZ4b1VPaF9uMVlkTDBzcE5keGpubzFXcXBObDFHbkFKaTNtX2Q1N2dhSEU2Tjg2M1kzejJhcGFsT0VCZzJ5TDI?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T12:30:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Wccftech",
-    "title": "More 3D V-Cache CPUs Coming To AM4 Platform As AMD Ryzen 5 5500X3D Spotted In EEC Listing - Wccftech",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15REhhT2NrSVVaZjY5cTAyVjdzNVhVeFd0SjRzM1czQ2pWMXh5SkpKZkh4VHliMGFHR1BLT3RsSFB0MmJrNS1xdWZiMXdMSlp4eWtrUUhNSHBMTjNJa3Y0VEd6WWlUYmkyc3hUbFhIbW1BQWlPb2ZteWhjc0VSSXfSAYQBQVVfeXFMUE95MEc2Znh3YjZ0N2R2bDFxenhPNVc0SjN5WnJKeWhKWnAxRFowdFgyTm5TemVEOGtoNlNLQW45dzBES1lrN1JwTml1c19Dck9FUG5abjdIbWFZR2d5WWxJekYwdnV1XzZMNExkWHFUbzRhT05PRDVzVWR2ZGZpQ1NHR1Y3?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T12:10:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "New York Post ",
-    "title": "Ocean with life-giving liquid water found on Martian subsurface in stunning discovery - New York Post ",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUExCTTg5Um1nT3VHSUtLYTBLSUgzQmozakhqTGdFbkdNN3Rzd09seDJBUVRybnRRUkNZRFgxOXNXOTJSLUlyUFNTMFRwWjZoYkdQRE5fYkxTNEs1NjBvTXNkMnk5bVlCMWJQRURBeDdxSFBkcGYxdGtqaDc1eWVxdHN1T0U4eWIwWjAyQTRyVU5neThCSGhRVENrdzJNVlZoNllsODI5S3ZueklIOUlLMWhUTTltMGs5bnlsRVphR3drYVA2UlE?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:56:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "The Wall Street Journal",
-    "title": "U.S. Efforts to Calm Mideast Fighting Face Critical Week - The Wall Street Journal",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaERscll3WmJOUTBMNzk4bjdSbzJJX3VoM3ZTRVdnMWtlbmpvUVNDMGwwNVZFMU1GRktSQ3UxejVLN21jOW56bmY1aTBILUJqMFBDQ1F2aWdCR2g1YXAxU1AycG1vc090NWNsZ3lNbXZGX0ZQb1JxbnRZVWJSa2dZZWFZM0VYRlRQNVJSNC1VbWpuTUNweXBIUFptVHBGd2NHZWlLeQ?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:35:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Reuters.com",
-    "title": "Russia strikes back at Ukrainian forces in Kursk region - Reuters.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQm5JNW0yRno2MTRnY01xclRhcFdXdzFYSXVyUlFMR0VfNnNuRXAydnREWG9QZm1jVEJYV2ZreWpDRFg3Tksyc3ZINTNEVnNBdzNiWmxPOTFQWkNzRzdyZ04zOVo0Q1hseXQ0UlhxQThlbFBZQWU5ZTB2SnBOcVp4NVdYSGlMTklkdk4zcDFKazF1eGJWLXRLdUpfZWoyM3hHODZGbjNjME8?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:28:58Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "The Associated Press",
-    "title": "Biden is announcing $150 million in research grants as part of his 'moonshot' push to fight cancer - The Associated Press",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeU12WXk3RDd0YndiZFdKS0Vlb1FPN1ZPVGpvNkdkM1NMNTFRVlZMRG9jaVluM3hUTmhzdHBudWhhMm5wOGVzSEFIS1YzZFhSQURkLTdjbkEzTF9CUWlKdndpd1M0M3pJaUZ5TzVPV2w0bWVuVk0wSzdUWlptVHl3b0psVjc2SXFqWGFtS0hQQnY5bjI3bERxMmx3TzZKWmNB?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:24:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "TechRadar",
-    "title": "New iPhone Air rumors suggest it could be a reason to skip this year’s iPhone 16 - TechRadar",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm1HSTQ0MVIzd2hlYzJ4VzhRSWg1YXgzQWgxU3NCVFZBVjNZQXdEa3BqaF81YlhoeklNS05IcVc0SDBTbjZsQ3p5aVY4TUJuT094alJBTk82cUZReXV6djVHYTl4aEl6dkY5b2FzSjk4NWE1Njk4dmZxVHkxeXkwYlc3YmpORnhPQzZxSW1pb1ZlTE4xV1o1TWdQV3o5cXpQYm55M2t4Q0hESlB4aExiczJnSGZ1TTZHQTVF?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:21:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Page Six",
-    "title": "Blake Lively reveals clash over ‘It Ends With Us’ song choice amid Justin Baldoni feud rumors - Page Six",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGtzWGoxLUI2S0xoVzYwNEtSdmlUWDFid3VRVjFLVTlKakJ0bGoweHZoMk93S0lCM0FLa2RnZURSYXE0bHJ4aHN4LTFCdGRuUFo0aU5jTFZUc3Iwb2lBamlNSm1NaXgzQXVSS0JVQlBJUHVvQUhhMVJPRDM3djR6ZTJWN1lUTkV2RmhlUXhrV3ZtenFrNXIyLVdTUG1zUXV0ZmVkZTBrS2huRnF4R0p5c2dvYXhvc0VDUDlYdnVYSQ?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:20:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "BBC.com",
-    "title": "Donald Trump's chat with Elon Musk on X fact-checked - BBC.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NTBuWDBKNjhKVHY3bWdTWVhjcEFjNlBTR2hmMzhMdjllUnBZdl85aURVVFdOUFEyUGFGaVZDbzZPeFRVVVR4ZzhKMW40WnZRYmJpRXkxV0NwUdIBX0FVX3lxTE03a0djUmlnRHdiNTV0VC04VFJIUThCRDNNQ24xbjBXMEVaLWNnYkh4YU5rYnVQTVhGUnlTa2xRNlpGSlA2OXQtVHFJQjlXTWkxUXBBSGxrVnFsZDV6dXJv?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:12:45Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Phys.org",
-    "title": "New species of extinct walrus-like mammal discovered in the North Atlantic - Phys.org",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11RXhKbGFsaUExVTdCX2FVdVFSbzY3dGIyTWREaTFKZkZmSlBhSldTWFdaeDFjMVBZZFNsMFU5cExPXzJ3LU52SW1RMjZ1aFRyUzJEMzVZQkVPc3BLenRPc3pERG5HWlpUNWJlVmZtdFoycFk3OFpPRTJR?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T11:00:01Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Financial Times",
-    "title": "Home Depot cuts sales outlook as consumer spending weakens - Financial Times",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTHVoTHdlRi1mcU1vOUZwbFktbW9PX0NiUUh6bnU5aF9yYXVzZmllalBTVHJOX2xmeXRyUUF0VjZGdGg4SnNGLVZZS0dkUDlib3hEeEFZVjROaF8tVDhIaEFwSUV5ZXRvQVgtRTZuUEE?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T10:20:31Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "Reuters.com",
-    "title": "'Alien: Romulus' reignites violence in the 'Alien' franchise - Reuters.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSk5sTHIyajlraENTY3lWcWg1RW1ESUxsVDdmZ1d3QUVqLWJvMXdTX3RIb0pMLWdDbnZCbEJfa1JpcndtUDNndHc5QjBWUFVMckZvN2tsTndSQTA1WnlVWWI4NkdGSjAzdWR6a203Y0JyaG9maUQtZnlwQWNaT2NOUUFHYy1HTnZwLXVKY2VENGZ4ZXplU3Y1V0pR?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T10:15:00Z",
-    "content": null
-    },
-    {
-    "source": {
-    "id": "google-news",
-    "name": "Google News"
-    },
-    "author": "BBC.com",
-    "title": "Helicopter crash pilot attended their own party before flight - BBC.com",
-    "description": null,
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JZXB3dklqNkN3aFlGMThyMllZc3VZMzFUeWx0dmwyVTM5cm14a2dzbU5UMXVTWFdzYkIyWXBneVVBaWs4VjhncTFQWTlsRExjZHJyaW1vczF1UdIBX0FVX3lxTE9nVmV3TTluRUlZX2tmU0J1U2FLb2RxRzFUUllZblp3bWhPX2JnWnRNZG83aE1oVWJfYmRZY2FmS1VReElLTzhrbV80WEQxUXo0NFZoY1pNNUFxTVM3ZHhZ?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2024-08-13T09:57:19Z",
-    "content": null
-    }
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Thai court dismisses PM Srettha for violating constitution",
+        "description": "The 67-year-old Srettha, who has been in power for less than a year, is the third PM in 16 years to be removed by the same court.",
+        "url": "https://www.bbc.co.uk/news/articles/c98415kzxy9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/265a/live/d1843a70-5a1d-11ef-a0b8-81063d05fb66.jpg",
+        "publishedAt": "2024-08-14T10:22:16.3753609Z",
+        "content": "Im confident in my honesty I feel sorry, but Im not saying I disagree with the ruling,\" he said at a press conference shortly after the ruling. The court's ruling is final and cannot be appealed.\r\nMr… [+2083 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Skai Jackson: Disney Channel star arrested at Universal Studios",
+        "description": "Skai Jackson, known for her role as Zuri Ross in the sitcom Jessie, was held at Universal Studios.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gzd87w6n0o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34cf/live/8b18f560-5a10-11ef-9599-994cc2b5f394.jpg",
+        "publishedAt": "2024-08-14T10:22:15.0163257Z",
+        "content": "A spokesperson for the Sheriff's Department said Miss Jackson was taken to a police station in West Hollywood for booking.\r\nPolice say she was involved in a \"domestic incident\" and that she was the \"… [+377 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Lifetimes: Katy Perry under Spain environmental investigation",
+        "description": "Lifetimes: Katy Perry under Spain environmental investigation",
+        "url": "https://www.bbc.co.uk/news/articles/c20411z4q34o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6222/live/f53bdaf0-5a0d-11ef-997c-711b7066309d.jpg",
+        "publishedAt": "2024-08-14T08:07:15.4529309Z",
+        "content": "Officials stressed that Katy Perry was not under investigation for what it called \"crimes against the environment\", as filming can be authorised in the area.\r\nThe environment department of the Balear… [+1109 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "NZ police race to recover meth-laced sweets distributed by charity",
+        "description": "Police are racing to recover the sweets, which may have been distributed to up to 400 people.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0r5nkyyyeo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d49a/live/a22a4d90-59ec-11ef-a1e0-f9297638b567.jpg",
+        "publishedAt": "2024-08-14T07:37:10.2660876Z",
+        "content": "Police have asked people that have sweets wrapped in brand Rinda's yellow pineapple flavour packaging to contact them immediately.\r\n\"It's vital the public are aware of these lollies and the hazard th… [+1877 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US soldier pleads guilty to selling military secrets to China",
+        "description": "Sgt Korbein Schultz was allegedly paid $42,000 in exchange for dozens of sensitive security data.",
+        "url": "https://www.bbc.co.uk/news/articles/c79w810e38no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a908/live/43eae210-59ee-11ef-aa95-4f5c16be3e9a.png",
+        "publishedAt": "2024-08-14T06:52:17.0312236Z",
+        "content": "Sgt Schultz, who held a security clearance to access top secret information, conspired to collect data with someone whom he believed to be living in Hong Kong, according to court documents.\r\nThe purp… [+1307 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Zeekr: China EV firm claims world's fastest-charging battery",
+        "description": "Zeekr says the new batteries can be charged from 10% to 80% in 10 and a half minutes using its chargers.",
+        "url": "https://www.bbc.co.uk/news/articles/cgl20971wxpo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5be/live/b42647a0-59f2-11ef-9a61-15457302f57d.jpg",
+        "publishedAt": "2024-08-14T05:22:12.2661408Z",
+        "content": "\"Teslas charging technology is not industry leading anymore and has not been for some time,\" said Tu Le, founder and managing director of consultancy firm Sino Auto Insights.\r\n\"These bold claims by Z… [+1137 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "'Squad' member Ilhan Omar wins congressional primary",
+        "description": "Two other members of the progressive group of Democrats lost primaries earlier this year.",
+        "url": "https://www.bbc.co.uk/news/articles/clywey7z8edo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce00/live/a302b9c0-59cc-11ef-bd87-81a5dd1e97e9.jpg",
+        "publishedAt": "2024-08-14T04:07:14.0636244Z",
+        "content": "With 99% of the votes counted on Tuesday night, the Associated Press reported that Ms Omar won with 67,524 votes, or by just over 56%.\r\nComing in second was Don Samuels, a former member of the Minnea… [+2301 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "British-Australian pianist's show cancelled over Gaza remarks",
+        "description": "Jayson Gillham dedicated a piece of music to journalists killed in Gaza.",
+        "url": "https://www.bbc.co.uk/news/articles/cn02jd0n9d2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc8d/live/ad0f00d0-59e1-11ef-bb64-15bd2e309174.jpg",
+        "publishedAt": "2024-08-14T03:37:12.906479Z",
+        "content": "Gillham - who is billed on the MSO website as \"as one of the finest pianists of his generation\" - was born in Australia but lives in the UK.\r\nAt the concert at the Iwaki Auditorium on Sunday, he perf… [+2169 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Kolkata doctor's rape and murder in hospital alarm India",
+        "description": "The rape and murder of a female doctor in India highlight the violence against healthcare workers.",
+        "url": "https://www.bbc.co.uk/news/articles/c93pqq9r5n4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b64/live/b9fa9960-589e-11ef-aebc-6de4d31bf5cd.jpg",
+        "publishedAt": "2024-08-14T03:07:12.8444767Z",
+        "content": "Things have worsened over the years, says Saraswati Datta Bodhak, a pharmacologist at a government hospital in West Bengal's Bankura district. \"Both my daughters are young doctors and they tell me th… [+1197 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Israeli minister denounced for prayer call at Jerusalem holy site",
+        "description": "Itamar Ben-Gvir visited the al-Aqsa Mosque compound with Israelis who defied a ban on Jewish prayer.",
+        "url": "https://www.bbc.co.uk/news/articles/cg58yj57jdeo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/044c/live/27980530-5998-11ef-b2d2-cdb23d5d7c5b.jpg",
+        "publishedAt": "2024-08-14T00:22:13.7980572Z",
+        "content": "The site is the holiest place for Jews because it was the site of two Biblical temples. It is the third holiest place for Muslims, who believe it was where the Prophet Muhammad ascended to heaven.\r\nS… [+3265 chars]"
+      }
     ]
-    }
+  }
