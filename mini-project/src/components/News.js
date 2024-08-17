@@ -136,29 +136,31 @@ article=  [
 ]
   constructor(){
     super();
-    console.log("Construcior from news")
+   
     this.state = {
 article:this.article,
  loading: false
   }}
   async componentDidMount(){
     let url="https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=f13b6c1e876440ff9963515bc43d9b56"
-    let data =  await fetch(url);
-    let parsedData= await data.json
+    let data =  await fetch(url); 
+    let parsedData= await data.json()
     this.setState({article: parsedData.article})
   }
   render() {
     return (
       <>
-     
-      <div className='container my-4 row '>
-          <h2>NewsHub- Top Headlines</h2>
-          <div className='row my-3 col md-5'>
-          {this.state.article.map((element)=>{return(<div className='col-md-3'><NewsItem key={element.url} title={!element.title?element.title.slice(0,45):""} description={!element.description?element.description.slice(0,60 ):""} imageurl={element.urlToImage} newsUrl={element.url}/></div>)})}
-             
+     <div className='container my-3'>
+      <h2>News-Hub Headlines</h2>
+      <div className='row'>
+        {this.state.article.map((element)=>{
+          return <div className='col md-4' key={element.url}>
+            <NewsItem title={element.title?element.title.slice(0,45):""}description={element.description?element.description.slice(0,44):""}imageUrl={element.urlToImage}newsUrl={element.url}></NewsItem>
           </div>
-
+        })}
       </div>
+     </div>
+      
       </>
     )
   }
